@@ -17,3 +17,5 @@
 [524, 11976]]
 
 ---
+
+[![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pLNjvol4oEbYsXiEOrTNB6Lg7ky1BZjz?usp=sharing)
